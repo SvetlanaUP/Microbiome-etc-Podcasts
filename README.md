@@ -6,10 +6,10 @@ This is the list of microbiology/science podcasts, mostly about microbiome/bioin
 
 ## Science
 
-- [Everything Hertz](https://everythinghertz.com/) [(@hertzpodcast)](https://twitter.com/hertzpodcast) Methodology, scientific life, and bad language. Co-hosted by Dr. Dan Quintana (University of Oslo) and Dr. James Heathers (Cipher Skin)
+- [Everything Hertz](https://everythinghertz.com/) [(@hertzpodcast)](https://twitter.com/hertzpodcast) Methodology, scientific life, and bad language. Co-hosted by Dr. Dan Quintana (University of Oslo) and Dr. James Heathers (Cipher Skin).
 - [Petri Dish: A Science Comedy Podcast](https://anchor.fm/petridish) [(@DishPodcast)](https://twitter.com/DishPodcast) Hosted by Sean Allen.
 - [The Lonely Pipette](https://mailchi.mp/422e1cbcf40a/try) [(@LonelyPipette)](https://twitter.com/LonelyPipette) Co-hosted by Jonathan Weitzman and Renaud Pourpre.
-- [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk)
+- [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk).
 
 ## Microbiology
 
@@ -27,7 +27,7 @@ This is the list of microbiology/science podcasts, mostly about microbiome/bioin
 ## Bioinformatics
 
 - [The bioinformatics chat](https://bioinformatics.chat/) [(@bioinfochat)](https://twitter.com/bioinfochat) Computational biology, bioinformatics, and next generation sequencing. Produced by Roman Cheplyaka and hosted by Roman and Jacob Schreiber.
-- [The Bioinformatics and Beyond Podcast](https://anchor.fm/bioinfopod/) [(@BioInfoPod)](https://twitter.com/BioInfoPod) Bioinformatics, computer science, programming, biology, genetics, tech, biotech, related careers and career skills, educational resources, and more. Hosted by Leo Elworth
+- [The Bioinformatics and Beyond Podcast](https://anchor.fm/bioinfopod/) [(@BioInfoPod)](https://twitter.com/BioInfoPod) Bioinformatics, computer science, programming, biology, genetics, tech, biotech, related careers and career skills, educational resources, and more. Hosted by Leo Elworth.
 - [Micro Binfie Podcast](https://soundcloud.com/microbinfie) [(@microbinfie)](https://twitter.com/microbinfie) Microbial Bioinformatics. Hosted by Dr. Lee Katz from the Centres for Disease Control and Prevention (US), Dr. Nabil-Fareed Alikhan and Dr. Andrew Page both from Quadram Institute Bioscience (UK).
 - [Not So Standard Deviations](https://nssdeviations.com/) [(@NSSDeviations)](https://twitter.com/NSSDeviations) Data science. Co-hosted by Hilary Parker and Roger Peng.
 - [Computationally Yours Podcast](https://linktr.ee/computationallyyours) [(@compbiopodcast)](https://twitter.com/compbiopodcast) Bioinformatics, data science and machine learning in the biomedical sciences and beyond. Co-hosted by Arshi Arora and Sabah Kadri.
