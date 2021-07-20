@@ -9,7 +9,7 @@ This is the list of microbiology/science podcasts, mostly about microbiome/bioin
 - [Everything Hertz](https://everythinghertz.com/) [(@hertzpodcast)](https://twitter.com/hertzpodcast) Methodology, scientific life, and bad language. Co-hosted by Dr. Dan Quintana (University of Oslo) and Dr. James Heathers (Cipher Skin)
 - [Petri Dish: A Science Comedy Podcast](https://anchor.fm/petridish) [(@DishPodcast)](https://twitter.com/DishPodcast) Hosted by Sean Allen.
 - [The Lonely Pipette](https://mailchi.mp/422e1cbcf40a/try) [(@LonelyPipette)](https://twitter.com/LonelyPipette) Co-hosted by Jonathan Weitzman and Renaud Pourpre.
-- [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) List of podcasts run by women collected by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk)
+- [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk)
 
 ## Microbiology
 
