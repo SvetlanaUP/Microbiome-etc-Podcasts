@@ -1,6 +1,6 @@
 # Microbiome-etc-Podcasts
 
-This is the list of microbiology/science podcasts, mostly about microbiome/bioinformatics and other closely related fields. In order of personal preference.
+This is the list of science/microbiology podcasts, mostly about microbiome/bioinformatics and other closely related fields. In order of personal preference.
 
 📻 If you would like to share your favourite podcast, feel free to let me know.
 
