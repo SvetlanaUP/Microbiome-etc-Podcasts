@@ -10,6 +10,8 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Petri Dish: A Science Comedy Podcast](https://anchor.fm/petridish) [(@DishPodcast)](https://twitter.com/DishPodcast) Hosted by Sean Allen.
 - [The Lonely Pipette](https://mailchi.mp/422e1cbcf40a/try) [(@LonelyPipette)](https://twitter.com/LonelyPipette) Co-hosted by Jonathan Weitzman and Renaud Pourpre.
 - [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk).
+- [The Science podcast](https://www.sciencemag.org/about/podcast) by [@ScienceMagazine](https://twitter.com/ScienceMagazine)
+- [Science in Action](https://www.bbc.co.uk/programmes/p002vsnb/episodes/downloads) by [@BBC](https://twitter.com/BBC)
 
 ## Microbiology
 
