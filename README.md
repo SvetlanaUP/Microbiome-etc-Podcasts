@@ -12,7 +12,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk).
 - [The Science podcast](https://www.sciencemag.org/about/podcast) by [@ScienceMagazine](https://twitter.com/ScienceMagazine)
 - [Science in Action](https://www.bbc.co.uk/programmes/p002vsnb/episodes/downloads) by [@BBC](https://twitter.com/BBC)
-- [The Biosocial Researcher](https://anchor.fm/emma-walker28/) [(@TheBiosocialPod)](https://twitter.com/TheBiosocialPod) by Emma Walker
+- [The Biosocial Researcher](https://anchor.fm/emma-walker28/) [(@TheBiosocialPod)](https://twitter.com/TheBiosocialPod) About the ways our social world interacts with our biology. Hosted by Emma Walker.
 
 ## Microbiology
 
