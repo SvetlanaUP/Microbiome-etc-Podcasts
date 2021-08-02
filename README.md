@@ -26,6 +26,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [The Microbe Moment With The Microbigals](https://www.microbigals.com/the-microbe-moment-science-podcast) [(@MicrobiGals)](https://twitter.com/MicrobiGals) Co-hosted by Tess Deyett and Jon Mitchell.
 - [Microbes and Us](https://fems-microbiology.org/welcome-to-our-new-podcast-microbes-and-us/) Co-hosted by Joseph Shuttleworth and Eleni Koursari.
 - [The Genomics Lab](https://anchor.fm/thegenomicslab) [(@theGenomicsLab)](https://twitter.com/theGenomicsLab) Co-hosted by Olivia Grant and Eleanor Watson.
+- [The Gut Microbiota Practice Tips Podcast](https://www.bykriscampbell.com/podcast) Gut microbiota, diet, and health, with a practical focus for dietitians and other healthcare professionals. Each episode summarizes the scientific consensus in a topic area & brings you highlights from the science literature. Co-hosted by [@nhaskeyRD](https://twitter.com/nhaskeyRD) and [@bykriscampbell](https://twitter.com/bykriscampbell).
 
 ## Bioinformatics
 
