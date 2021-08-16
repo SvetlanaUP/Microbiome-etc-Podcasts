@@ -9,10 +9,18 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Everything Hertz](https://everythinghertz.com/) [(@hertzpodcast)](https://twitter.com/hertzpodcast) Methodology, scientific life, and bad language. Co-hosted by Dr. Dan Quintana (University of Oslo) and Dr. James Heathers (Cipher Skin).
 - [Petri Dish: A Science Comedy Podcast](https://anchor.fm/petridish) [(@DishPodcast)](https://twitter.com/DishPodcast) Hosted by Sean Allen.
 - [The Lonely Pipette](https://mailchi.mp/422e1cbcf40a/try) [(@LonelyPipette)](https://twitter.com/LonelyPipette) Co-hosted by Jonathan Weitzman and Renaud Pourpre.
-- [Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk).
+- [List of Women in STEM podcasts](https://twitter.com/i/lists/1052729937856102402) Podcasts run by women, listed by [Dr. Kat Milligan-Myhre](https://twitter.com/Napaaqtuk).
+- [Women In STEM pod](https://podcasts.apple.com/us/podcast/stempod/id1475866450) [@WomenInSTEMpod](https://twitter.com/WomenInSTEMpod) The lives and stories of #womeninSTEM. Hosted by Samantha Jones.
 - [The Science podcast](https://www.sciencemag.org/about/podcast) by [@ScienceMagazine](https://twitter.com/ScienceMagazine)
 - [Science in Action](https://www.bbc.co.uk/programmes/p002vsnb/episodes/downloads) by [@BBC](https://twitter.com/BBC)
 - [The Biosocial Researcher](https://anchor.fm/emma-walker28/) [(@TheBiosocialPod)](https://twitter.com/TheBiosocialPod) About the ways our social world interacts with our biology. Hosted by Emma Walker.
+- [Sean Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/) Science, society, philosophy, culture, arts, and ideas. Hosted by [Sean Carroll](https://twitter.com/seanmcarroll).
+- [Talk Nerdy](https://www.carasantamaria.com/podcast) [@TalkNerdy_Pod](https://twitter.com/TalkNerdy_Pod) From science to politics to atheism and beyond. Hosted by Cara Santa Maria.
+- [Behind the Microscope](https://www.behindthemicroscope.com/) [@behindthescope_](https://twitter.com/behindthescope_) Science behind the scenes. Co-hosted by Bejan Saeedi, Joe Behnke, Carey Jansen and Michael Sayegh
+- [Ologies](https://linktr.ee/alieward) [@Ologies](https://twitter.com/Ologies) Comedy and science. Hosted by Alie Ward.
+- [This Podcast Will Kill You](http://thispodcastwillkillyou.com/) [@tpwky](https://twitter.com/tpwky) Infectious disease. Co-hosted by Erin Welsh and Erin Allmann Updyke
+- [Preprints in Motion podcast](http://preprintsinmotion.com/) [@MotionPod](https://twitter.com/MotionPod) Discussing the most cutting edge science with the people who did all the work. Hosted by Jonny Coates.
+
 
 ## Microbiology
 
