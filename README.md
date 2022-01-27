@@ -39,6 +39,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Gut Questions?](https://yourgutquestions.com/) Conversational interviews with immunologist and gut microbiome specialist, William DePaolo, PhD.
 - [Phage Therapy Today](https://anchor.fm/phagetherapytoday) The phage therapy industry: insights into current advancements and challenges from academia, financial, regulatory, manufacturing and entrepreneurial perspectives. Hosted by Steven Yang.
 - [Brain Food](https://open.spotify.com/show/6y9HgUIM66QGMwGAHt0dgT) From diet culture to the microbiom. Hosted by Isha Das.
+- [Grow Microbiology](https://open.spotify.com/show/2tNv1KcSqP2gTZsCh2VeM1) Sharing of ideas, best practices, teaching tips, educational solutions, and other exciting topics in Microbiology. Hosted by McGraw Hill education. 
 
 ## Bioinformatics
 
