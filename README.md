@@ -21,6 +21,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [This Podcast Will Kill You](http://thispodcastwillkillyou.com/) [(@tpwky)](https://twitter.com/tpwky) Infectious disease. Co-hosted by Erin Welsh and Erin Allmann Updyke
 - [Preprints in Motion podcast](http://preprintsinmotion.com/) [(@MotionPod)](https://twitter.com/MotionPod) Discussing the most cutting edge science with the people who did all the work. Hosted by Jonny Coates.
 - [Your Digital Mentor Podcast](https://your-digital-mentor.simplecast.com/) [(@mentor_podcast)](https://twitter.com/mentor_podcast) focuses on mentoring, research, career & skills development, and EDI. Hosted by the Sanger Institute.
+- [Natural Prodcast](https://jgi.doe.gov/category/podcasts/natural-prodcast/) by Joint Genome Institue.
 
 
 ## Microbiology
