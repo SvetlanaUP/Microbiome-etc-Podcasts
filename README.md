@@ -22,6 +22,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Preprints in Motion podcast](http://preprintsinmotion.com/) [(@MotionPod)](https://twitter.com/MotionPod) Discussing the most cutting edge science with the people who did all the work. Hosted by Jonny Coates.
 - [Your Digital Mentor Podcast](https://your-digital-mentor.simplecast.com/) [(@mentor_podcast)](https://twitter.com/mentor_podcast) focuses on mentoring, research, career & skills development, and EDI. Hosted by the Sanger Institute.
 - [Natural Prodcast](https://jgi.doe.gov/category/podcasts/natural-prodcast/) by Joint Genome Institue.
+- [Let's Talk SciComm](https://anchor.fm/letstalkscicomm) Listen for advice, tips and interviews about how to communicate science in effective and engaging ways. Co-hosted by Jen Martin and Michael Wheeler.
 
 
 ## Microbiology
