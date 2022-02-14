@@ -23,6 +23,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Your Digital Mentor Podcast](https://your-digital-mentor.simplecast.com/) [(@mentor_podcast)](https://twitter.com/mentor_podcast) focuses on mentoring, research, career & skills development, and EDI. Hosted by the Sanger Institute.
 - [Natural Prodcast](https://jgi.doe.gov/category/podcasts/natural-prodcast/) by Joint Genome Institue.
 - [Let's Talk SciComm](https://anchor.fm/letstalkscicomm) Listen for advice, tips and interviews about how to communicate science in effective and engaging ways. Co-hosted by Jen Martin and Michael Wheeler.
+- [BioTech talks](https://www.youtube.com/channel/UCivVEF_3bPJwANuuCAfKZfw) hosted by Mustafa Inamdar.
 
 
 ## Microbiology
