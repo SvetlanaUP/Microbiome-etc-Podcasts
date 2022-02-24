@@ -53,7 +53,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Not So Standard Deviations](https://nssdeviations.com/) [(@NSSDeviations)](https://twitter.com/NSSDeviations) Data science. Co-hosted by Hilary Parker and Roger Peng.
 - [Computationally Yours Podcast](https://linktr.ee/computationallyyours) [(@compbiopodcast)](https://twitter.com/compbiopodcast) Bioinformatics, data science and machine learning in the biomedical sciences and beyond. Co-hosted by Arshi Arora and Sabah Kadri.
 - [The Bioinformatics CRO](https://www.bioinformaticscro.com/the-bioinformatics-cro-podcast/) by [(@bioinfocro)](https://twitter.com/bioinfocro)
-- [PolicyViz](https://policyviz.com/) Helping you do a better job processing, analyzing, sharing, and presenting your data. Hosted by [@jschwabish](https://twitter.com/jschwabish).
+- [PolicyViz](https://policyviz.com/) [@policyviz](https://twitter.com/policyviz) Helping you do a better job processing, analyzing, sharing, and presenting your data. Hosted by [@jschwabish](https://twitter.com/jschwabish).
 
 
   
