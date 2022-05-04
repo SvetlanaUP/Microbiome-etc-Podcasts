@@ -33,6 +33,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 ## Microbiology
 
 - [Microbiology Lab Pod](https://microbiology.se/2020/04/27/the-microbiology-lab-pod/) New papers, life in academia and science news from the perspective of a research lab on the Swedish west coast. Hosted by Johan Bengtsson-Palme's lab.
+- [The AMR studio](https://uac.uu.se/the-amr-studio/) The multidisciplinary research on antimicrobial resistance that is happening around the world. Co-hosted by Eva Garmendia and Jennifer Jagdmann. 
 - [Papers Aloud](https://rss.com/podcasts/audiolit/) [(@PapersAloud)](https://twitter.com/PapersAloud) Readings of open-access (CC BY) primary research articles and reviews relevant to evolutionary and cell biology, environmental and clinical microbiology, symbiosis, geobiology, and bioinformatics. Hosted by Arkadiy Garber.
 - [Microbe Talk](https://microbiologysociety.org/news-press/podcast-microbe-talk.html) by Microbiology Society
 - [Joyful Microbe](https://joyfulmicrobe.com/category/podcast-episodes/) [(@joyfulmicrobe)](https://twitter.com/joyfulmicrobe) All about the microbes we encounter in our daily lives (with or without realizing it). Hosted by Dr. Justine Dees.
