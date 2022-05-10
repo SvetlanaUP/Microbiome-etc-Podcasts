@@ -49,6 +49,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Brain Food](https://open.spotify.com/show/6y9HgUIM66QGMwGAHt0dgT) From diet culture to the microbiome. Hosted by Isha Das.
 - [Grow Microbiology](https://open.spotify.com/show/2tNv1KcSqP2gTZsCh2VeM1) Sharing of ideas, best practices, teaching tips, educational solutions, and other exciting topics in Microbiology. Hosted by McGraw Hill education. 
 - [Gut Podcast](https://soundcloud.com/bmjpodcasts/sets/gut-podcast) Highlights from the Gut Journal's issues, monthly. 
+- [The Science, Microbes & Health Podcast](https://isappscience.org/episode-1-the-science-of-fermented-foods-part-1/) Probiotics, prebiotics, synbiotics, postbiotics and fermented foods. Hosted by The International Scientific Association for Probiotics and Prebiotic (ISAPP).
 
 ## Bioinformatics
 
