@@ -52,6 +52,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Gut Podcast](https://soundcloud.com/bmjpodcasts/sets/gut-podcast) Highlights from the Gut Journal's issues, monthly. 
 - [The Science, Microbes & Health Podcast](https://isappscience.org/episode-1-the-science-of-fermented-foods-part-1/) Probiotics, prebiotics, synbiotics, postbiotics and fermented foods. Hosted by The International Scientific Association for Probiotics and Prebiotic (ISAPP).
 - [Let's Talk Micro](https://rss.com/podcasts/letstalkmicro/) [@Letstalkmicro1](https://twitter.com/Letstalkmicro1) Clinical Microbiology explained in simple terms, suitable for students and microbiologists alike. Hosted by Luis Plaza.
+- [Microbiology Hub](https://podcasts.apple.com/lk/podcast/microbiology-hub/id1523231834) The latest research and developments in the field, providing in-depth analysis and expert insights that will deepen your understanding of this fascinating subject. Hosted by Tanmay Mehta.
 
 ## Bioinformatics
 
