@@ -55,6 +55,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Microbiology Hub](https://podcasts.apple.com/lk/podcast/microbiology-hub/id1523231834) The latest research and developments in the field, providing in-depth analysis and expert insights that will deepen your understanding of this fascinating subject. Hosted by Tanmay Mehta.
 - [microTalk](https://asm.org/Podcasts/microTalk) Discussions with researchers in the field of infectious diseases. Hosted by Karl Klose and colleagues from the South Texas Center for Emerging Infectious Diseases (STCEID).
 - [Editors in Conversation](https://asm.org/Podcasts/Editors-in-Conversation) Discussions between ASM Journals Editors, researchers and clinicians working on the most cutting edge issues in the microbial sciences. 
+- [Microbiome matters](https://open.spotify.com/show/6k5wDl0TDtlC4JdpMMQjqj) For healthcare professionals and researchers, brought to you by Yakult Science.
 
 ## Bioinformatics
 
