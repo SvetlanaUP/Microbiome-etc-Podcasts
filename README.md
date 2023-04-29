@@ -29,7 +29,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [PhDivas](https://phdivaspodcast.wordpress.com/) Academia, culture, and social justice across the STEM/humanities divide. Co-hosted by Liz Wayne and Christine "Xine" Yao.
 - [Behind Our Science](https://behindourscience.wordpress.com/) Novel scientific research communication in an easily digestible and fun environment to all audiences. Co-hosted by Roberto Mota-Alvidrez, Marina Anastasiou, Daisy Shu and Vik Meadows.
 - [Night Science](https://www.buzzsprout.com/1744020) Where do ideas come from? In each episode, scientists Itai Yanai and Martin Lercher explore science's creative side with a leading colleague.
-
+- [Science on the menu](https://www.efsa.europa.eu/en/news/science-on-the-menu-podcast) The science behind the assessment of risks from the farm to the fork by European Food Safety Authority.
 
 ## Microbiology
 
