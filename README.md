@@ -30,6 +30,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Behind Our Science](https://behindourscience.wordpress.com/) Novel scientific research communication in an easily digestible and fun environment to all audiences. Co-hosted by Roberto Mota-Alvidrez, Marina Anastasiou, Daisy Shu and Vik Meadows.
 - [Night Science](https://www.buzzsprout.com/1744020) Where do ideas come from? In each episode, scientists Itai Yanai and Martin Lercher explore science's creative side with a leading colleague.
 - [Science on the menu](https://www.efsa.europa.eu/en/news/science-on-the-menu-podcast) The science behind the assessment of risks from the farm to the fork by European Food Safety Authority.
+- [TheoBiophysics](https://podcasters.spotify.com/pod/show/theobiophysics) Recent advances in the field of biophysics.
 
 ## Microbiology
 
@@ -57,7 +58,6 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Editors in Conversation](https://asm.org/Podcasts/Editors-in-Conversation) Discussions between ASM Journals Editors, researchers and clinicians working on the most cutting edge issues in the microbial sciences. 
 - [Microbiome matters](https://open.spotify.com/show/6k5wDl0TDtlC4JdpMMQjqj) For healthcare professionals and researchers, brought to you by Yakult Science.
 - [Gut microbiome talk!](https://podcasters.spotify.com/pod/show/gut-microbiome) Latest research of gut microbiome brought to you by Daisuke Suzuki.
-- [TheoBiophysics](https://podcasters.spotify.com/pod/show/theobiophysics) Recent advances in the field of biophysics.
 
 ## Bioinformatics
 
