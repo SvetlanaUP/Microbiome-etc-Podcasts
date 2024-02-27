@@ -58,6 +58,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Editors in Conversation](https://asm.org/Podcasts/Editors-in-Conversation) Discussions between ASM Journals Editors, researchers and clinicians working on the most cutting edge issues in the microbial sciences. 
 - [Microbiome matters](https://open.spotify.com/show/6k5wDl0TDtlC4JdpMMQjqj) For healthcare professionals and researchers, brought to you by Yakult Science.
 - [Gut microbiome talk!](https://podcasters.spotify.com/pod/show/gut-microbiome) Latest research of gut microbiome brought to you by Daisuke Suzuki.
+- [Microbiome Medics](https://open.spotify.com/show/049RxwkoOdgHDrsspHB3Cn) Dr Siobhan McCormack and Dr Sheena Fraser presents a paradigm shift in the way medicine is perceived, researched, and practiced. 
 
 ## Bioinformatics
 
