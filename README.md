@@ -31,6 +31,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Night Science](https://www.buzzsprout.com/1744020) Where do ideas come from? In each episode, scientists Itai Yanai and Martin Lercher explore science's creative side with a leading colleague.
 - [Science on the menu](https://www.efsa.europa.eu/en/news/science-on-the-menu-podcast) The science behind the assessment of risks from the farm to the fork by European Food Safety Authority.
 - [TheoBiophysics](https://podcasters.spotify.com/pod/show/theobiophysics) Recent advances in the field of biophysics.
+- [U labu](https://www.ulabu.org/) In Serbian language! Srđan Bjedov, Branislav Jović i Miloš Svirčev razgovaraju o nauci.
 
 ## Microbiology
 
