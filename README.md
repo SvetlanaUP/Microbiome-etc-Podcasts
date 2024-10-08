@@ -74,6 +74,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [PolicyViz](https://policyviz.com/) [(@policyviz)](https://twitter.com/policyviz) Helping you do a better job processing, analyzing, sharing, and presenting your data. Hosted by [@jschwabish](https://twitter.com/jschwabish).
 - [The Bioinformatics Lab](https://www.podchaser.com/podcasts/the-bioinformatics-lab-5417866) Kevin Libuit and Andrew Page share thoughts on the latest advancements in Bioinformatics.
 - [BioinfoBridges](https://open.spotify.com/show/201oMlCIEZRQElbE6yWdk8) by ISCB Student Council.
+- [codebar Stories](https://podcasts.apple.com/gb/podcast/codebar-stories/id1767827399) by codebar: a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech.
 
 
   
