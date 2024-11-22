@@ -62,6 +62,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Microbiome Medics](https://open.spotify.com/show/049RxwkoOdgHDrsspHB3Cn) Dr Siobhan McCormack and Dr Sheena Fraser presents a paradigm shift in the way medicine is perceived, researched, and practiced.
 - [The Microbiome Mavericks](https://microbiomemavericks.com/) Hosted by Dr. Amine Zorgani.
 - [Biomes podcast](https://ruairirobertson.com/biomes-podcast) Dr. Ruairi Robertson explores the fascinating new developments in our understanding of the human microbiome.
+- [Microbial matters](https://www.youtube.com/playlist?list=PLGhmZX2NKiNkf9HG3mL4HSBKoJjmZZajU) by Mark O. Martin about the wonders of microbiology, microbiologists, and microbial centrism.
 
 ## Bioinformatics
 
