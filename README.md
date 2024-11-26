@@ -32,6 +32,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Science on the menu](https://www.efsa.europa.eu/en/news/science-on-the-menu-podcast) The science behind the assessment of risks from the farm to the fork by European Food Safety Authority.
 - [TheoBiophysics](https://podcasters.spotify.com/pod/show/theobiophysics) Recent advances in the field of biophysics.
 - [U labu](https://www.ulabu.org/) In Serbian language! Srđan Bjedov, Branislav Jović i Miloš Svirčev razgovaraju o nauci.
+- [Coffee Literature Review podcast](https://podcasts.apple.com/us/podcast/coffee-lit-rev/id1737907375) A review of a recent scientific article published abour adjacent to coffee. Hosted by Christopher Hendon.
 
 ## Microbiology
 
