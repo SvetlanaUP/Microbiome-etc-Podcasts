@@ -66,6 +66,7 @@ This is the list of science/microbiology podcasts, mostly about microbiome/bioin
 - [Biomes podcast](https://ruairirobertson.com/biomes-podcast) Dr. Ruairi Robertson explores the fascinating new developments in our understanding of the human microbiome.
 - [Microbial matters](https://www.youtube.com/playlist?list=PLGhmZX2NKiNkf9HG3mL4HSBKoJjmZZajU) by Mark O. Martin about the wonders of microbiology, microbiologists, and microbial centrism.
 - [Biopolis - into the microbiome](https://springcast.app/biopolis-into-the-microbiome) A young scientist is looking for answers in the human microbiome.
+- MVIF conversations on [Spotify](https://open.spotify.com/show/1f4lBWveBW5OPkmqCV9Zza), [Apple Podcasts](https://podcasts.apple.com/us/podcast/mvif-conversations/id1720308399), [Amazon Music](https://music.amazon.com/podcasts/81c72d1a-4f1d-4461-84b4-a1e91d621f06/mvif-conversations) and [Youtube Podcasts](https://www.youtube.com/playlist?list=PLLOHGJKpTq6oxlrfmqFHcStwtud4pMyAy] In 15-30 minutes each month, the Microbiome Virtual International Forum members chat with scientists, writers, and other microbiome experts.
 
 ## Bioinformatics
 
